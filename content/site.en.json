@@ -409,7 +409,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned in 2021",
         "heroImage": "/images/projects/zilan-regulator-hpp/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/zilan-regulator-hpp/gallery-1.webp"
+        ],
         "summary": "A smaller-scale regulator and hydropower reference in Van that extends the company's profile into compact hydro infrastructure with operational energy value.",
         "body": [
           "The Zilan Regulator and Hydropower Plant expands the Arma Infrastructure reference base within smaller-scale hydro and regulator-led water-energy projects. Although more compact than major dam schemes, projects of this type still require careful coordination between hydraulic structures, civil works, and generation-supporting systems.",
@@ -452,7 +454,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned in 2020",
         "heroImage": "/images/projects/saral-3-hpp-phase-1/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/saral-3-hpp-phase-1/gallery-1.webp"
+        ],
         "summary": "A phase-based hydropower reference in Van Province that strengthens the company's profile in small and mid-scale renewable energy infrastructure.",
         "body": [
           "Saral-3 Hydropower Plant Phase 1 adds another operational hydropower reference in Van Province and contributes to the company's portfolio of phased and regionally distributed energy infrastructure projects. Schemes of this type are valuable because they demonstrate delivery within staged development conditions rather than only single-package flagship works.",
@@ -496,7 +500,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned in 2021",
         "heroImage": "/images/projects/morgedik-hpp-phase-1/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/morgedik-hpp-phase-1/gallery-1.webp"
+        ],
         "summary": "A first-phase hydropower reference in Van Province that adds compact generation infrastructure to the overall project portfolio.",
         "body": [
           "Morgedik Hydropower Plant Phase 1 represents a smaller hydro reference within Van Province and contributes to the operational spread of the Arma Infrastructure water-energy portfolio. Projects of this scale are important because they demonstrate that disciplined infrastructure delivery is not limited to large dams and major reservoir schemes.",
@@ -540,7 +546,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned in 2009",
         "heroImage": "/images/projects/bagisli-regulator-hpp/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/bagisli-regulator-hpp/gallery-1.webp"
+        ],
         "summary": "A long-operating regulator and hydropower reference in Hakkari that strengthens the portfolio with an earlier-generation water-energy asset.",
         "body": [
           "The Bagisli Regulator and Hydropower Plant adds historical depth to the Arma Infrastructure project profile by representing an operational hydro reference with commissioning dating back to 2009. References of this kind are important because they show participation in water-energy infrastructure over a longer delivery and operating horizon.",
@@ -583,7 +591,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned on 18 June 2021 and 1 March 2023",
         "heroImage": "/images/projects/aslandagi-beyyurdu-energy-group/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/aslandagi-beyyurdu-energy-group/gallery-1.webp"
+        ],
         "summary": "A phased energy group reference in Hakkari that reflects multi-asset hydropower development within a single regional program.",
         "body": [
           "The Aslandagi and Beyyurdu Energy Group broadens the Arma Infrastructure portfolio through a multi-asset hydropower reference in Hakkari Province. Rather than a single isolated structure, this type of energy group reflects a coordinated development model in which multiple generation components contribute to one regional infrastructure program.",
@@ -626,7 +636,9 @@
         "status": "Completed / Operational",
         "period": "Commissioned in 2014",
         "heroImage": "/images/projects/kamer-regulator-hpp/hero.webp",
-        "gallery": [],
+        "gallery": [
+          "/images/projects/kamer-regulator-hpp/gallery-1.webp"
+        ],
         "summary": "A compact regulator and hydropower reference in Mus that adds another operational hydro asset to the project portfolio.",
         "body": [
           "The Kamer Regulator and Hydropower Plant adds another compact hydro reference to the Arma Infrastructure portfolio in Mus Province. Projects of this type show how smaller water-energy assets still depend on reliable civil delivery, hydraulic logic, and controlled construction methods despite their limited physical footprint.",
