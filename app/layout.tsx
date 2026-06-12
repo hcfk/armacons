@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.armacons.com"),
   title: "Arma Infrastructure",
   description: "Arma Infrastructure corporate and capability site.",
   icons: {

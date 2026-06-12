@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { ContentSection } from "@/components/content-section";
+import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getCorporatePage } from "@/lib/content";
 
@@ -54,6 +55,7 @@ export default async function CorporateDetailPage({
     <>
       <PageHero eyebrow={page.eyebrow} title={page.title} intro={page.intro} />
       <ContentSection body={page.body} ctaHref={cta?.href} ctaLabel={cta?.label} />
+      {page.sections?.length ? <DetailSections sections={page.sections} /> : null}
     </>
   );
 }

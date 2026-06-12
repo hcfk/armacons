@@ -18,6 +18,11 @@ export type CorporatePage = {
   eyebrow: string;
   intro: string;
   body: string[];
+  sections?: {
+    title: string;
+    intro?: string;
+    items: string[];
+  }[];
 };
 
 export type CapabilityItem = {
