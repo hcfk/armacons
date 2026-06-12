@@ -40,7 +40,7 @@ export function SiteHeader() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-10">
         <Link href="/en" className="flex items-center">
           <Image
-            src={dark ? "/ArmaDarkBackgroundLogo.svg" : "/ArmaLightBackGroundLogo.svg"}
+            src={dark ? "/images/ArmaDarkBackgroundLogo.svg" : "/images/ArmaLightBackGroundLogo.svg"}
             alt="Arma Infrastructure"
             width={220}
             height={56}
