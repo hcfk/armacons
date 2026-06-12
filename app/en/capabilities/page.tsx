@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import { CapabilityGrid } from "@/components/capability-grid";
+import { ContentSection } from "@/components/content-section";
+import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content } from "@/lib/content";
 
@@ -19,6 +21,16 @@ export default function CapabilitiesPage() {
         imageSrc={content.capabilities.index.heroImage}
         imageAlt={content.capabilities.index.title}
       />
+      {content.capabilities.index.body?.length ? (
+        <ContentSection
+          body={content.capabilities.index.body}
+          ctaHref="/en/projects"
+          ctaLabel="View Projects"
+        />
+      ) : null}
+      {content.capabilities.index.sections?.length ? (
+        <DetailSections sections={content.capabilities.index.sections} />
+      ) : null}
       <CapabilityGrid items={content.capabilities.items} />
     </>
   );

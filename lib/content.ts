@@ -36,6 +36,7 @@ export type CapabilityItem = {
   cardImage?: string;
   summary: string;
   body: string[];
+  sections?: DetailSection[];
 };
 
 export type ProjectHighlight = {
@@ -97,6 +98,8 @@ export type SiteContent = {
       title: string;
       intro: string;
       heroImage: string;
+      body?: string[];
+      sections?: DetailSection[];
     };
     items: CapabilityItem[];
   };

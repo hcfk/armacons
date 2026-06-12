@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { ContentSection } from "@/components/content-section";
+import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getCapability } from "@/lib/content";
 
@@ -54,6 +55,7 @@ export default async function CapabilityDetailPage({
         ctaHref="/en/contact"
         ctaLabel="Discuss a Project"
       />
+      {capability.sections?.length ? <DetailSections sections={capability.sections} /> : null}
     </>
   );
 }
