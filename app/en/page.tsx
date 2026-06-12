@@ -13,6 +13,7 @@ export const metadata: Metadata = buildPageMetadata({
   title: content.home.seoTitle,
   description: content.home.seoDescription,
   path: "/en",
+  image: "/en/opengraph-image",
 });
 
 export default function HomePage() {

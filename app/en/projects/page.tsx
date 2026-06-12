@@ -9,7 +9,7 @@ export const metadata: Metadata = buildPageMetadata({
   title: content.projects.index.seoTitle,
   description: content.projects.index.seoDescription,
   path: "/en/projects",
-  image: content.projects.items[0]?.heroImage,
+  image: "/en/projects/opengraph-image",
 });
 
 export default function ProjectsPage() {

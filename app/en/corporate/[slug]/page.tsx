@@ -27,6 +27,7 @@ export async function generateMetadata({
     title: page.seoTitle ?? page.title,
     description: page.seoDescription ?? page.intro,
     path: `/en/corporate/${slug}`,
+    image: `/en/corporate/${slug}/opengraph-image`,
   });
 }
 

@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 
-const defaultImage = "/images/arma_ilisu_main.webp";
+const defaultImage = "/en/opengraph-image";
 
 type SeoOptions = {
   title: string;

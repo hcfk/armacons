@@ -10,7 +10,7 @@ export const metadata: Metadata = buildPageMetadata({
   title: content.capabilities.index.seoTitle,
   description: content.capabilities.index.seoDescription,
   path: "/en/capabilities",
-  image: content.capabilities.index.heroImage,
+  image: "/en/capabilities/opengraph-image",
 });
 
 export default function CapabilitiesPage() {

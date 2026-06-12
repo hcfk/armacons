@@ -8,6 +8,7 @@ export const metadata: Metadata = buildPageMetadata({
   title: "Contact Arma Infrastructure | Ankara Office",
   description: content.contact.intro,
   path: "/en/contact",
+  image: "/en/contact/opengraph-image",
 });
 
 export default function ContactPage() {

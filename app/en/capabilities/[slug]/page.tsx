@@ -27,7 +27,7 @@ export async function generateMetadata({
     title: capability.seoTitle ?? capability.title,
     description: capability.seoDescription ?? capability.summary,
     path: `/en/capabilities/${slug}`,
-    image: capability.heroImage,
+    image: `/en/capabilities/${slug}/opengraph-image`,
   });
 }
 

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/arma_ilisu_main.webp",
+        url: "/en/opengraph-image",
         alt: "Arma Infrastructure",
       },
     ],
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Arma Infrastructure",
     description: "Arma Infrastructure corporate and capability site.",
-    images: ["/images/arma_ilisu_main.webp"],
+    images: ["/en/opengraph-image"],
   },
   icons: {
     icon: "/favicon.ico",
