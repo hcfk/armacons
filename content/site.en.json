@@ -12,6 +12,8 @@
     { "label": "Contact", "href": "/en/contact" }
   ],
   "home": {
+    "seoTitle": "Arma Infrastructure | Heavy Civil, Water and Transport Infrastructure Contractor",
+    "seoDescription": "Arma Infrastructure delivers heavy civil construction, dam works, transport infrastructure, hydraulic systems, and structural solutions with an engineering-led execution approach.",
     "eyebrow": "Arma Infrastructure",
     "title": "Infrastructure shaped by engineering, execution, and long-term performance.",
     "intro": "Arma Infrastructure is positioned as a heavy civil contractor focused on water systems, transport links, and structural works. The company profile is built around dependable delivery, engineering discipline, and durable infrastructure solutions for public and strategic projects.",
@@ -24,16 +26,20 @@
   "corporate": [
     {
       "slug": "about",
+      "seoTitle": "About Arma Infrastructure | Heavy Civil and Infrastructure Construction in Turkey",
+      "seoDescription": "Learn about Arma Infrastructure, a Turkey-based heavy civil and infrastructure contractor focused on water structures, transport systems, and structural construction.",
       "title": "About Arma",
       "eyebrow": "Corporate",
-      "intro": "Arma Infrastructure focuses on construction disciplines where technical planning, field execution, and durable performance are essential.",
+      "intro": "Arma Infrastructure is a Turkey-based infrastructure construction company focused on heavy civil works, water engineering systems, and transport-related structures.",
       "body": [
-        "Arma Infrastructure is positioned to deliver high-quality, reliable, and sustainable construction solutions across water, transport, and structural infrastructure. The company profile emphasizes disciplined execution, technical capability, and a commitment to completing demanding work with consistent standards.",
-        "Its operating approach is built around engineering coordination, field control, and the ability to support projects that strengthen public infrastructure and long-term regional development. The first release of the site establishes that corporate foundation in a direct and technically credible way."
+        "Arma Infrastructure is positioned as a heavy civil and infrastructure construction company delivering reliable, high-quality, and sustainable solutions across dams, hydraulic systems, transport infrastructure, and structural works. The company profile is built around disciplined execution, technical capability, and the capacity to deliver demanding infrastructure projects with consistent standards.",
+        "Its operating model emphasizes engineering coordination, field control, construction planning, and long-term asset performance. By focusing on infrastructure that supports regional development, public utility, and strategic investment, Arma Infrastructure presents itself as a contractor prepared for complex civil works in Turkey and beyond."
       ]
     },
     {
       "slug": "mission-vision",
+      "seoTitle": "Mission and Vision | Arma Infrastructure Construction Strategy",
+      "seoDescription": "Discover the mission and vision of Arma Infrastructure, focused on sustainable construction, reliable execution, and long-term leadership in heavy civil infrastructure.",
       "title": "Mission & Vision",
       "eyebrow": "Corporate",
       "intro": "Arma Infrastructure is built around a mission of dependable delivery and a vision of long-term sector leadership.",
@@ -44,9 +50,11 @@
     },
     {
       "slug": "values-principles",
+      "seoTitle": "Values and Principles | Quality, Trust and Responsibility | Arma Infrastructure",
+      "seoDescription": "Explore the values and operating principles of Arma Infrastructure, including quality, reliability, business ethics, environmental awareness, and continuous improvement.",
       "title": "Values & Principles",
       "eyebrow": "Corporate",
-      "intro": "Arma Infrastructure’s corporate principles are anchored in quality, trust, responsibility, and continuous improvement.",
+      "intro": "Arma Infrastructure's corporate principles are anchored in quality, trust, responsibility, and continuous improvement.",
       "body": [
         "Quality and reliability are treated as core operating values. Arma Infrastructure is positioned to prioritize strong execution standards, dependable service, and disciplined project control in every engagement.",
         "The company profile is also shaped by respect for people, environmental awareness, business ethics, and a fair working culture. Continuous improvement, openness to innovation, and a practical commitment to social contribution define the broader principles behind its growth."
@@ -54,26 +62,32 @@
     },
     {
       "slug": "management-message",
+      "seoTitle": "Management Message | Arma Infrastructure Leadership Approach",
+      "seoDescription": "Read the management message of Arma Infrastructure and its leadership perspective on quality, sustainability, innovation, and infrastructure delivery.",
       "title": "Management Message",
       "eyebrow": "Corporate",
       "intro": "Arma Infrastructure presents leadership as a balance of experience, responsibility, and long-term project vision.",
       "body": [
-        "Arma Infrastructure is built on the belief that long-term success in construction depends on quality, reliability, sustainability, and trust. The company’s management approach is intended to reflect clear responsibility to clients, stakeholders, and the wider built environment.",
+        "Arma Infrastructure is built on the belief that long-term success in construction depends on quality, reliability, sustainability, and trust. The company's management approach is intended to reflect clear responsibility to clients, stakeholders, and the wider built environment.",
         "With an emphasis on technical competence, innovation, and disciplined execution, Arma Infrastructure aims to offer tailored solutions for demanding projects and to grow as a trusted infrastructure partner with a respected professional standing."
       ]
     },
     {
       "slug": "environmental-policy",
+      "seoTitle": "Environmental Policy | Sustainable Infrastructure Construction | Arma Infrastructure",
+      "seoDescription": "Review the environmental policy of Arma Infrastructure, focused on compliance, resource efficiency, waste reduction, and sustainable construction methods.",
       "title": "Environmental Policy",
       "eyebrow": "Corporate",
       "intro": "Environmental responsibility is treated as a practical obligation in infrastructure planning and construction.",
       "body": [
-        "Arma Infrastructure is committed to environmental protection, compliance with applicable regulations, and the responsible use of natural resources. The company’s policy direction includes reducing waste, improving energy and water efficiency, and managing environmental impact with measurable care.",
+        "Arma Infrastructure is committed to environmental protection, compliance with applicable regulations, and the responsible use of natural resources. The company's policy direction includes reducing waste, improving energy and water efficiency, and managing environmental impact with measurable care.",
         "This approach also supports recycling, environmental awareness, and the wider use of sustainable methods, materials, and technologies. The objective is to improve environmental performance continuously while delivering infrastructure that respects both operational needs and natural systems."
       ]
     },
     {
       "slug": "quality-management",
+      "seoTitle": "Quality Management | Infrastructure Quality and Site Control | Arma Infrastructure",
+      "seoDescription": "Learn how Arma Infrastructure approaches quality management through planning, supervision, process control, and standards-based execution.",
       "title": "Quality Management",
       "eyebrow": "Corporate",
       "intro": "Quality management is one of the clearest indicators of execution discipline in infrastructure work.",
@@ -85,40 +99,50 @@
   ],
   "capabilities": {
     "index": {
+      "seoTitle": "Infrastructure Capabilities | Dams, Roads, Bridges and Civil Works | Arma Infrastructure",
+      "seoDescription": "Explore Arma Infrastructure capabilities across dam construction, hydropower, irrigation systems, road infrastructure, bridges, viaducts, earthworks, and structural concrete works.",
       "eyebrow": "Capabilities",
       "title": "Core capability areas for Arma Infrastructure",
-      "intro": "The first release focuses on six core capability categories adapted from the source site structure and refined for Arma Infrastructure’s positioning."
+      "intro": "The first release focuses on six core capability categories adapted from the source site structure and refined for Arma Infrastructure's positioning."
     },
     "items": [
       {
         "slug": "dams-hydropower",
+        "seoTitle": "Dam Construction and Hydropower Infrastructure | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure delivers dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-related civil works with an engineering-led approach.",
         "title": "Dams and Hydropower",
-        "summary": "Water storage structures, hydraulic systems, flood control assets, and hydropower-oriented civil works.",
+        "summary": "Dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-oriented civil works.",
         "body": [
-          "Dams and hydropower systems play a central role in water management, flood control, irrigation support, and renewable energy production. Arma Infrastructure positions this capability around the planning and delivery of critical structures that regulate water flow, store supply, and support long-term regional resilience.",
-          "The service scope is framed around engineering-led design coordination, structural execution, and the controlled construction of hydraulic assets that contribute both to water security and to sustainable energy generation."
+          "Dam construction and hydropower infrastructure play a central role in water management, flood control, irrigation support, and renewable energy production. Arma Infrastructure positions this capability around the planning and delivery of critical structures that regulate water flow, store supply, and support long-term regional resilience.",
+          "The service scope includes dam works, hydraulic control systems, reservoir-related civil construction, and hydropower-supporting structures executed through engineering-led coordination and strict field control. This capability is presented as a strategic civil discipline serving both water security and sustainable energy generation."
         ]
       },
       {
         "slug": "water-conveyance-irrigation",
+        "seoTitle": "Water Conveyance and Irrigation Infrastructure | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure develops irrigation systems, canals, hydraulic routing works, and water conveyance infrastructure to support agricultural productivity and resource efficiency.",
         "title": "Water Conveyance and Irrigation",
         "summary": "Canals, irrigation systems, hydraulic distribution structures, and water-management infrastructure.",
         "body": [
-          "Water conveyance and irrigation infrastructure supports agriculture, resource efficiency, and broader regional development. Arma Infrastructure presents this capability through systems that collect, direct, store, and distribute water with a focus on practical performance and controlled delivery.",
-          "The category includes irrigation-supporting structures, hydraulic routing systems, and related civil works developed to improve agricultural productivity while respecting sustainability and long-term water management goals."
+          "Water conveyance and irrigation infrastructure supports agriculture, resource efficiency, and long-term regional development. Arma Infrastructure presents this capability through irrigation systems, hydraulic routing structures, and civil works that collect, store, direct, and distribute water with controlled technical performance.",
+          "The service scope includes canals, hydraulic distribution assets, irrigation-supporting structures, and water-management infrastructure developed to improve agricultural productivity while supporting sustainability, environmental awareness, and efficient resource use."
         ]
       },
       {
         "slug": "road-infrastructure",
+        "seoTitle": "Road Infrastructure and Highway Construction | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure delivers highway construction, divided road systems, transport corridors, and roadway civil works focused on safety, durability, and connectivity.",
         "title": "Road Infrastructure",
         "summary": "Highway platforms, divided roads, transport links, and supporting roadway civil works.",
         "body": [
-          "Road infrastructure is a foundational component of economic activity, regional access, and social mobility. Arma Infrastructure frames this capability around the delivery of safe, durable, and efficient road systems supported by disciplined engineering and field execution.",
-          "This positioning covers design-sensitive construction stages, structural stability, pavement-related systems, and the broader objective of building transport networks that improve connectivity while maintaining safety and environmental awareness."
+          "Road infrastructure is a core driver of economic activity, regional access, logistics, and social mobility. Arma Infrastructure frames this capability around the delivery of highway construction, transport corridors, and roadway civil systems designed for safety, durability, and operational efficiency.",
+          "This capability includes road platform works, divided road construction, pavement-supporting systems, and field execution processes guided by disciplined engineering, structural stability, and environmental awareness. The objective is to build reliable road networks that strengthen connectivity and long-term transport performance."
         ]
       },
       {
         "slug": "bridge-viaduct-structures",
+        "seoTitle": "Bridge and Viaduct Construction | Structural Transport Infrastructure | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure builds bridge and viaduct systems that improve transport continuity through durable structural execution, engineering precision, and site control.",
         "title": "Bridge and Viaduct Structures",
         "summary": "Bridge crossings, viaduct systems, and structural links that support safe and continuous transport.",
         "body": [
@@ -128,6 +152,8 @@
       },
       {
         "slug": "earthworks-excavation",
+        "seoTitle": "Earthworks and Excavation Services | Infrastructure Site Preparation | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure performs earthworks, excavation, grading, and site preparation for transport, hydraulic, and structural civil works.",
         "title": "Earthworks and Excavation",
         "summary": "Excavation, grading, embankment shaping, and site preparation for major infrastructure works.",
         "body": [
@@ -137,6 +163,8 @@
       },
       {
         "slug": "concrete-structural-works",
+        "seoTitle": "Concrete and Structural Works | Reinforced Civil Construction | Arma Infrastructure",
+        "seoDescription": "Arma Infrastructure delivers concrete and structural works for dams, roads, water systems, and other heavy civil infrastructure applications.",
         "title": "Concrete and Structural Works",
         "summary": "Reinforced concrete execution, structural placement, and durable civil construction systems.",
         "body": [
@@ -150,6 +178,6 @@
     "eyebrow": "Contact",
     "title": "Start the first conversation.",
     "intro": "Contact Arma Infrastructure in Ankara for infrastructure construction, water engineering, transport structures, and heavy civil project discussions.",
-    "address": "MUSTAFA KEMAL MAH. 2139 CAD. NO: 29 D: 7 ÇANKAYA / ANKARA / TURKEY"
+    "address": "MUSTAFA KEMAL MAH. 2139 CAD. NO: 29 D: 7 CANKAYA / ANKARA / TURKEY"
   }
 }

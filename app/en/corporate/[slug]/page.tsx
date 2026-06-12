@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { ContentSection } from "@/components/content-section";
@@ -6,6 +7,24 @@ import { content, getCorporatePage } from "@/lib/content";
 
 export function generateStaticParams() {
   return content.corporate.map((page) => ({ slug: page.slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const page = getCorporatePage(slug);
+
+  if (!page) {
+    return {};
+  }
+
+  return {
+    title: page.seoTitle ?? page.title,
+    description: page.seoDescription ?? page.intro,
+  };
 }
 
 export default async function CorporateDetailPage({

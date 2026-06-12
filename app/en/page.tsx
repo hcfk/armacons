@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 
 import { CapabilityGrid } from "@/components/capability-grid";
@@ -5,6 +6,11 @@ import { ContentSection } from "@/components/content-section";
 import { PageHero } from "@/components/page-hero";
 import { StatsBand } from "@/components/stats-band";
 import { content } from "@/lib/content";
+
+export const metadata: Metadata = {
+  title: content.home.seoTitle,
+  description: content.home.seoDescription,
+};
 
 export default function HomePage() {
   return (
