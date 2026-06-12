@@ -3,6 +3,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 
 import { ContentSection } from "@/components/content-section";
+import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getProject } from "@/lib/content";
 
@@ -73,6 +74,7 @@ export default async function ProjectDetailPage({
       </section>
 
       <ContentSection body={project.body} />
+      {project.sections?.length ? <DetailSections sections={project.sections} /> : null}
 
       <section className="mx-auto max-w-7xl px-6 pb-12 lg:px-10 lg:pb-16">
         <div className="section-frame rounded-[28px] p-8 lg:p-12">

@@ -10,6 +10,12 @@ export type StatItem = {
   value: string;
 };
 
+export type DetailSection = {
+  title: string;
+  intro?: string;
+  items: string[];
+};
+
 export type CorporatePage = {
   slug: string;
   seoTitle?: string;
@@ -18,11 +24,7 @@ export type CorporatePage = {
   eyebrow: string;
   intro: string;
   body: string[];
-  sections?: {
-    title: string;
-    intro?: string;
-    items: string[];
-  }[];
+  sections?: DetailSection[];
 };
 
 export type CapabilityItem = {
@@ -55,6 +57,7 @@ export type ProjectItem = {
   summary: string;
   body: string[];
   highlights: ProjectHighlight[];
+  sections?: DetailSection[];
 };
 
 export type SiteContent = {
@@ -72,6 +75,8 @@ export type SiteContent = {
     title: string;
     intro: string;
     stats: StatItem[];
+    body: string[];
+    sections?: DetailSection[];
   };
   corporate: CorporatePage[];
   projects: {

@@ -22,6 +22,28 @@
       { "label": "Focus", "value": "Heavy Civil" },
       { "label": "Core Sector", "value": "Water and Transport" },
       { "label": "Approach", "value": "Engineering-Led" }
+    ],
+    "body": [
+      "Arma Infrastructure is introduced through a focused first release that defines its corporate voice, core capability areas, and engineering-led visual identity. The site is structured to present the company as a serious heavy civil contractor rather than a generic construction brand.",
+      "Its positioning is centered on dependable execution, infrastructure-scale thinking, and durable solutions across water, transport, and structural systems. This foundation supports expansion into project references, broader service depth, and future bilingual development."
+    ],
+    "sections": [
+      {
+        "title": "Why Arma Infrastructure",
+        "items": [
+          "A company profile shaped around engineering discipline, coordinated site execution, and long-term asset performance.",
+          "Capability emphasis on water infrastructure, transport systems, structural works, and heavy civil delivery logic.",
+          "Corporate positioning built for public utility, regional value creation, and strategic infrastructure relevance."
+        ]
+      },
+      {
+        "title": "Execution Perspective",
+        "items": [
+          "Plan work with attention to sequence, constructability, field control, and quality assurance from day one.",
+          "Integrate technical oversight and operational realism to support durable outcomes rather than short-term output.",
+          "Approach infrastructure as a long-life responsibility where reliability after handover matters as much as delivery itself."
+        ]
+      }
     ]
   },
   "corporate": [
@@ -254,6 +276,32 @@
           "For Arma Infrastructure, Alpaslan 2 stands out because the project scale is supported by quantifiable civil work volumes rather than headline capacity alone. Tunnel execution, excavation intensity, road connectivity, and concrete scope all point to the integrated nature of major dam construction, where supporting works are as critical to delivery success as the main structures themselves.",
           "As a project reference, Alpaslan 2 strengthens the company's position in dam and hydropower construction by showing capability across the wider infrastructure chain: site access, structural works, excavation management, hydraulic construction interfaces, and technically controlled field execution."
         ],
+        "sections": [
+          {
+            "title": "Project Scope",
+            "items": [
+              "Dam and hydropower infrastructure delivered together with tunnel, excavation, concrete, road, and bridge packages.",
+              "A construction profile requiring close coordination between hydraulic works, geotechnical operations, and access logistics.",
+              "A broad civil scope that reflects the real complexity behind utility-scale water and energy infrastructure."
+            ]
+          },
+          {
+            "title": "Technical Profile",
+            "items": [
+              "Installed capacity of 280 MW with annual generation identified at approximately 850 GWh in public references.",
+              "Significant derivation tunnel, open excavation, underground excavation, and structural concrete quantities.",
+              "Supporting transport and access works that reinforce the integrated character of the project footprint."
+            ]
+          },
+          {
+            "title": "Project Value",
+            "items": [
+              "Demonstrates execution capability across the full chain of dam-related civil works rather than a single isolated structure.",
+              "Supports the Arma Infrastructure profile in hydropower, heavy excavation, and technically coordinated field delivery.",
+              "Shows how infrastructure-scale engineering depends on continuity between enabling works and core power assets."
+            ]
+          }
+        ],
         "highlights": [
           { "label": "Installed Capacity", "value": "280 MW" },
           { "label": "Annual Generation", "value": "850 GWh" },
@@ -287,6 +335,32 @@
           "With an installed capacity of 1,200 MW and an annual energy yield cited at 4,120 GWh in project references, Ilisu ranks among the major hydropower assets in the country. The reservoir volume, crest length, and overall power profile underline the magnitude of the scheme and its long-term infrastructure value.",
           "The project is also notable for the way multiple heavy civil disciplines converge within a single water-control system. Dam body works, hydraulic arrangements, structural concrete, powerhouse interfaces, and long-life operational requirements all need to be aligned through highly controlled execution.",
           "For Arma Infrastructure, Ilisu functions as a flagship reference in dam and hydropower construction. It demonstrates engagement with very large water-control and energy-supporting systems where structural scale, hydraulic performance, durability, and organized field management must work together from construction through commissioning."
+        ],
+        "sections": [
+          {
+            "title": "Project Scale",
+            "items": [
+              "A major water and energy infrastructure scheme on the Tigris system with strategic regional significance.",
+              "Concrete-faced rockfill dam configuration combined with high-capacity hydropower generation and hydraulic works.",
+              "A reservoir and structural profile that places the project among the most substantial references in the national sector."
+            ]
+          },
+          {
+            "title": "Execution Complexity",
+            "items": [
+              "Requires rigorous coordination between dam body works, powerhouse interfaces, river-control arrangements, and long-life operational requirements.",
+              "Combines geotechnical understanding, fill placement, structural systems, and hydraulic performance into one controlled delivery sequence.",
+              "Demands site organization and technical continuity across very large water-control and energy-supporting infrastructure packages."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Strengthens the company profile in flagship-scale dam and hydropower infrastructure.",
+              "Illustrates how structural scale, durability, and hydraulic engineering must function together from construction through commissioning.",
+              "Supports positioning in strategic infrastructure where engineering depth and disciplined field management are decisive."
+            ]
+          }
         ],
         "highlights": [
           { "label": "Dam Type", "value": "Concrete-faced rockfill dam (CFRD)" },

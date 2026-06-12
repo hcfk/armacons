@@ -1,8 +1,4 @@
-type DetailSection = {
-  title: string;
-  intro?: string;
-  items: string[];
-};
+import { DetailSection } from "@/lib/content";
 
 export function DetailSections({ sections }: { sections: DetailSection[] }) {
   if (!sections.length) {
