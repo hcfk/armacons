@@ -250,7 +250,7 @@
       "seoDescription": "Review Arma Infrastructure project references including Alpaslan 2 Dam and Hydropower Plant and Ilisu Dam and Hydroelectric Power Plant.",
       "eyebrow": "Projects",
       "title": "Selected infrastructure projects",
-      "intro": "The current project section introduces two major dam and hydropower references that define the scale, technical depth, and field execution profile behind Arma Infrastructure."
+      "intro": "The current project section combines flagship dam references with smaller and mid-scale hydropower assets that broaden the operating profile of Arma Infrastructure across multiple regions in Turkey."
     },
     "items": [
       {
@@ -372,6 +372,260 @@
           { "label": "Crest Length", "value": "1,775 m" },
           { "label": "Plant Configuration", "value": "Semi-buried powerhouse" },
           { "label": "Location", "value": "Dicle Stream, Mardin" }
+        ]
+      },
+      {
+        "slug": "zilan-regulator-hpp",
+        "seoTitle": "Zilan Regulator and Hydropower Plant | Arma Infrastructure",
+        "seoDescription": "Explore the Zilan Regulator and Hydropower Plant reference in Van, Turkey, including commissioning year, installed capacity, and annual generation profile.",
+        "title": "Zilan Regulator and Hydropower Plant",
+        "location": "Van, Turkey",
+        "category": "Regulator and Hydropower",
+        "status": "Completed / Operational",
+        "period": "Commissioned in 2021",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A smaller-scale regulator and hydropower reference in Van that extends the company's profile into compact hydro infrastructure with operational energy value.",
+        "body": [
+          "The Zilan Regulator and Hydropower Plant expands the Arma Infrastructure reference base within smaller-scale hydro and regulator-led water-energy projects. Although more compact than major dam schemes, projects of this type still require careful coordination between hydraulic structures, civil works, and generation-supporting systems.",
+          "Publicly available project references place the asset in Van Province and identify it as a regulator and hydropower development connected to the broader use of regional water resources. In this kind of project, value lies in efficient execution, dependable hydraulic behavior, and controlled delivery within a tighter physical footprint.",
+          "For Arma Infrastructure, Zilan is relevant because it demonstrates capability not only in flagship-scale structures but also in smaller hydro assets where accuracy, sequence, and operational reliability remain critical. That makes it a useful supporting reference within a diversified hydropower portfolio."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "Regulator and hydropower configuration in Van Province commissioned in 2021.",
+              "A compact hydro reference that broadens the portfolio beyond only large dam-scale assets.",
+              "An example of water-energy infrastructure where efficient civil coordination is central to value."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Supports the company's profile in smaller hydro and regulator-led civil works.",
+              "Shows that execution discipline is relevant across compact and large-scale water infrastructure alike.",
+              "Adds operational variety to the broader hydropower reference base."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Van" },
+          { "label": "Commissioning", "value": "2021" },
+          { "label": "Installed Capacity", "value": "6.070 MW" },
+          { "label": "Annual Generation", "value": "20.085 GWh" }
+        ]
+      },
+      {
+        "slug": "saral-3-hpp-phase-1",
+        "seoTitle": "Saral-3 Hydropower Plant Phase 1 | Arma Infrastructure",
+        "seoDescription": "Explore the Saral-3 Hydropower Plant Phase 1 reference in Van, Turkey, including installed capacity, annual generation, and commissioning year.",
+        "title": "Saral-3 Hydropower Plant Phase 1",
+        "location": "Van, Turkey",
+        "category": "Hydropower",
+        "status": "Completed / Operational",
+        "period": "Commissioned in 2020",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A phase-based hydropower reference in Van Province that strengthens the company's profile in small and mid-scale renewable energy infrastructure.",
+        "body": [
+          "Saral-3 Hydropower Plant Phase 1 adds another operational hydropower reference in Van Province and contributes to the company's portfolio of phased and regionally distributed energy infrastructure projects. Schemes of this type are valuable because they demonstrate delivery within staged development conditions rather than only single-package flagship works.",
+          "The project profile indicates a focused generation asset where civil execution, hydraulic coordination, and reliable operational planning must align within a more compact installation. Even at smaller scale, hydropower assets depend on precise construction logic and continuity between civil works and the generation objective.",
+          "For Arma Infrastructure, Saral-3 Phase 1 supports a broader market position in renewable water-energy infrastructure and shows the ability to participate in project environments where phased delivery and targeted output are part of the commercial and technical model."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "Hydropower reference in Van Province delivered as Phase 1 of a staged development structure.",
+              "A smaller-scale generation asset where hydraulic coordination and civil precision remain essential.",
+              "Part of the wider renewable energy reference base supporting Arma Infrastructure."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Strengthens the portfolio in phased hydropower development rather than only single-scope schemes.",
+              "Supports positioning in operationally focused water-energy assets with compact civil footprints.",
+              "Adds diversity to the company's regional hydro reference mix."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Van" },
+          { "label": "Phase", "value": "1" },
+          { "label": "Commissioning", "value": "2020" },
+          { "label": "Installed Capacity", "value": "5.400 MW" },
+          { "label": "Annual Generation", "value": "26.700 GWh" }
+        ]
+      },
+      {
+        "slug": "morgedik-hpp-phase-1",
+        "seoTitle": "Morgedik Hydropower Plant Phase 1 | Arma Infrastructure",
+        "seoDescription": "Explore the Morgedik Hydropower Plant Phase 1 reference in Van, Turkey, including installed capacity, annual generation, and commissioning year.",
+        "title": "Morgedik Hydropower Plant Phase 1",
+        "location": "Van, Turkey",
+        "category": "Hydropower",
+        "status": "Completed / Operational",
+        "period": "Commissioned in 2021",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A first-phase hydropower reference in Van Province that adds compact generation infrastructure to the overall project portfolio.",
+        "body": [
+          "Morgedik Hydropower Plant Phase 1 represents a smaller hydro reference within Van Province and contributes to the operational spread of the Arma Infrastructure water-energy portfolio. Projects of this scale are important because they demonstrate that disciplined infrastructure delivery is not limited to large dams and major reservoir schemes.",
+          "Phase-based hydro assets require their own execution logic, including targeted civil works, hydraulic coordination, and practical operational planning aligned to a defined output objective. Their compact scale does not reduce the need for quality control, sequencing, and reliable interface management.",
+          "For Arma Infrastructure, Morgedik Phase 1 serves as another supporting reference in renewable generation infrastructure and reinforces the company's profile across varied hydropower project sizes and delivery models."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "First-phase hydropower reference in Van Province commissioned in 2021.",
+              "A compact generation asset adding breadth to the company's hydro project portfolio.",
+              "Reflects smaller-scale energy infrastructure where execution discipline remains essential."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Demonstrates portfolio coverage across multiple hydro project scales and development phases.",
+              "Supports positioning in renewable infrastructure beyond major flagship assets.",
+              "Adds another operational water-energy reference in eastern Turkey."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Van" },
+          { "label": "Phase", "value": "1" },
+          { "label": "Commissioning", "value": "2021" },
+          { "label": "Installed Capacity", "value": "2.030 MW" },
+          { "label": "Annual Generation", "value": "9.090 GWh" }
+        ]
+      },
+      {
+        "slug": "bagisli-regulator-hpp",
+        "seoTitle": "Bagisli Regulator and Hydropower Plant | Arma Infrastructure",
+        "seoDescription": "Explore the Bagisli Regulator and Hydropower Plant reference in Hakkari, Turkey, including installed capacity, annual generation, and commissioning year.",
+        "title": "Bagisli Regulator and Hydropower Plant",
+        "location": "Hakkari, Turkey",
+        "category": "Regulator and Hydropower",
+        "status": "Completed / Operational",
+        "period": "Commissioned in 2009",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A long-operating regulator and hydropower reference in Hakkari that strengthens the portfolio with an earlier-generation water-energy asset.",
+        "body": [
+          "The Bagisli Regulator and Hydropower Plant adds historical depth to the Arma Infrastructure project profile by representing an operational hydro reference with commissioning dating back to 2009. References of this kind are important because they show participation in water-energy infrastructure over a longer delivery and operating horizon.",
+          "As a regulator and hydropower asset in Hakkari Province, the project reflects the practical civil and hydraulic coordination required in mountain-region water infrastructure. It sits within the category of projects where water-control logic and power generation must function together under geographically demanding conditions.",
+          "For Arma Infrastructure, Bagisli is relevant not only for its installed capacity and energy profile, but also because it extends the company's reference timeline and demonstrates continuity across different periods of hydro infrastructure development."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "Regulator and hydropower reference in Hakkari Province commissioned in 2009.",
+              "Represents a longer-operating hydro asset within the wider portfolio.",
+              "Linked to mountain-region hydraulic and civil execution conditions."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Adds historical depth and operating continuity to the project reference base.",
+              "Supports the company's positioning in regulator-led water-energy infrastructure.",
+              "Broadens the geographic and temporal range of hydropower references."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Hakkari" },
+          { "label": "Commissioning", "value": "2009" },
+          { "label": "Installed Capacity", "value": "29.572 MW" },
+          { "label": "Annual Generation", "value": "95.000 GWh" }
+        ]
+      },
+      {
+        "slug": "aslandagi-beyyurdu-energy-group",
+        "seoTitle": "Aslandagi and Beyyurdu Energy Group | Arma Infrastructure",
+        "seoDescription": "Explore the Aslandagi and Beyyurdu Energy Group reference in Hakkari, Turkey, including installed capacity, annual generation, and phased commissioning dates.",
+        "title": "Aslandagi and Beyyurdu Energy Group",
+        "location": "Hakkari, Turkey",
+        "category": "Hydropower Energy Group",
+        "status": "Completed / Operational",
+        "period": "Commissioned on 18 June 2021 and 1 March 2023",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A phased energy group reference in Hakkari that reflects multi-asset hydropower development within a single regional program.",
+        "body": [
+          "The Aslandagi and Beyyurdu Energy Group broadens the Arma Infrastructure portfolio through a multi-asset hydropower reference in Hakkari Province. Rather than a single isolated structure, this type of energy group reflects a coordinated development model in which multiple generation components contribute to one regional infrastructure program.",
+          "Its phased commissioning profile, with one stage entering operation in 2021 and another in 2023, underlines the importance of sequencing, staged readiness, and continuity of technical management across multiple delivery milestones. That characteristic makes the project relevant from both construction and program-control perspectives.",
+          "For Arma Infrastructure, the reference is valuable because it extends the project portfolio into grouped and phased hydro assets where coordination between packages, schedules, and long-term operational intent is central to successful delivery."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "Energy group reference in Hakkari Province with phased commissioning across 2021 and 2023.",
+              "Represents coordinated hydropower development under a multi-asset regional structure.",
+              "Relevant as both a generation asset and a program-management reference."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Adds phased and grouped energy infrastructure to the broader hydropower portfolio.",
+              "Demonstrates the importance of continuity and control across separate commissioning milestones.",
+              "Supports positioning in coordinated renewable energy development programs."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Hakkari" },
+          { "label": "Commissioning", "value": "18 Jun 2021 / 1 Mar 2023" },
+          { "label": "Installed Capacity", "value": "19.160 MW" },
+          { "label": "Annual Generation", "value": "64.720 GWh" }
+        ]
+      },
+      {
+        "slug": "kamer-regulator-hpp",
+        "seoTitle": "Kamer Regulator and Hydropower Plant | Arma Infrastructure",
+        "seoDescription": "Explore the Kamer Regulator and Hydropower Plant reference in Mus, Turkey, including installed capacity, annual generation, and commissioning year.",
+        "title": "Kamer Regulator and Hydropower Plant",
+        "location": "Mus, Turkey",
+        "category": "Regulator and Hydropower",
+        "status": "Completed / Operational",
+        "period": "Commissioned in 2014",
+        "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+        "gallery": [],
+        "summary": "A compact regulator and hydropower reference in Mus that adds another operational hydro asset to the project portfolio.",
+        "body": [
+          "The Kamer Regulator and Hydropower Plant adds another compact hydro reference to the Arma Infrastructure portfolio in Mus Province. Projects of this type show how smaller water-energy assets still depend on reliable civil delivery, hydraulic logic, and controlled construction methods despite their limited physical footprint.",
+          "As a regulator-linked generation project, Kamer sits within the category of infrastructure where water management and energy production are integrated through targeted civil and hydraulic works. This type of asset helps round out a portfolio that includes both large dams and more compact regional power references.",
+          "For Arma Infrastructure, Kamer is relevant because it demonstrates continuity in hydropower-related project experience within Mus Province beyond the larger Alpaslan 2 reference. It contributes to a broader picture of regional familiarity and diversified hydro project participation."
+        ],
+        "sections": [
+          {
+            "title": "Project Profile",
+            "items": [
+              "Regulator and hydropower reference in Mus Province commissioned in 2014.",
+              "Compact water-energy infrastructure with a focused civil and hydraulic execution profile.",
+              "Extends the company's hydro reference base in the same province as Alpaslan 2."
+            ]
+          },
+          {
+            "title": "Reference Value",
+            "items": [
+              "Adds regional continuity and scale diversity to the Mus hydropower portfolio.",
+              "Supports the company's profile in smaller regulator-led generation assets.",
+              "Demonstrates that compact hydro projects still require disciplined infrastructure execution."
+            ]
+          }
+        ],
+        "highlights": [
+          { "label": "Province", "value": "Mus" },
+          { "label": "Commissioning", "value": "2014" },
+          { "label": "Installed Capacity", "value": "3.750 MW" },
+          { "label": "Annual Generation", "value": "11.430 GWh" }
         ]
       }
     ]

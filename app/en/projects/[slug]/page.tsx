@@ -95,21 +95,23 @@ export default async function ProjectDetailPage({
         </div>
       </section>
 
-      <section className="mx-auto max-w-7xl px-6 pb-16 lg:px-10 lg:pb-24">
-        <p className="eyebrow text-sm text-[rgb(46,91,122)]">Project Gallery</p>
-        <div className="mt-6 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
-          {project.gallery.map((image, index) => (
-            <div key={image} className="relative aspect-[4/3] overflow-hidden rounded-[28px] border border-[rgba(16,38,63,0.08)]">
-              <Image
-                src={image}
-                alt={`${project.title} gallery image ${index + 1}`}
-                fill
-                className="object-cover"
-              />
-            </div>
-          ))}
-        </div>
-      </section>
+      {project.gallery.length ? (
+        <section className="mx-auto max-w-7xl px-6 pb-16 lg:px-10 lg:pb-24">
+          <p className="eyebrow text-sm text-[rgb(46,91,122)]">Project Gallery</p>
+          <div className="mt-6 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+            {project.gallery.map((image, index) => (
+              <div key={image} className="relative aspect-[4/3] overflow-hidden rounded-[28px] border border-[rgba(16,38,63,0.08)]">
+                <Image
+                  src={image}
+                  alt={`${project.title} gallery image ${index + 1}`}
+                  fill
+                  className="object-cover"
+                />
+              </div>
+            ))}
+          </div>
+        </section>
+      ) : null}
     </>
   );
 }
