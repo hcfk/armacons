@@ -16,6 +16,8 @@ export default function CapabilitiesPage() {
         title={content.capabilities.index.title}
         intro={content.capabilities.index.intro}
         dark
+        imageSrc={content.capabilities.index.heroImage}
+        imageAlt={content.capabilities.index.title}
       />
       <CapabilityGrid items={content.capabilities.items} />
     </>

@@ -25,6 +25,8 @@ export type CapabilityItem = {
   seoTitle?: string;
   seoDescription?: string;
   title: string;
+  heroImage: string;
+  cardImage?: string;
   summary: string;
   body: string[];
 };
@@ -84,6 +86,7 @@ export type SiteContent = {
       eyebrow: string;
       title: string;
       intro: string;
+      heroImage: string;
     };
     items: CapabilityItem[];
   };

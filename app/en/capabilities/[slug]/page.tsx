@@ -41,7 +41,14 @@ export default async function CapabilityDetailPage({
 
   return (
     <>
-      <PageHero eyebrow="Capabilities" title={capability.title} intro={capability.summary} dark />
+      <PageHero
+        eyebrow="Capabilities"
+        title={capability.title}
+        intro={capability.summary}
+        dark
+        imageSrc={capability.heroImage}
+        imageAlt={capability.title}
+      />
       <ContentSection
         body={capability.body}
         ctaHref="/en/contact"

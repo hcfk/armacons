@@ -192,19 +192,21 @@
   },
   "capabilities": {
     "index": {
-      "seoTitle": "Infrastructure Capabilities | Dams, Roads, Bridges and Civil Works | Arma Infrastructure",
-      "seoDescription": "Explore Arma Infrastructure capabilities across dam construction, hydropower, irrigation systems, road infrastructure, bridges, viaducts, earthworks, and structural concrete works.",
-      "eyebrow": "Capabilities",
-      "title": "Core capability areas for Arma Infrastructure",
-      "intro": "The first release focuses on six core capability categories adapted from the source site structure and refined for Arma Infrastructure's positioning."
-    },
-    "items": [
-      {
-        "slug": "dams-hydropower",
-        "seoTitle": "Dam Construction and Hydropower Infrastructure | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure delivers dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-related civil works with an engineering-led approach.",
-        "title": "Dams and Hydropower",
-        "summary": "Dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-oriented civil works.",
+    "seoTitle": "Infrastructure Capabilities | Dams, Roads, Bridges and Civil Works | Arma Infrastructure",
+    "seoDescription": "Explore Arma Infrastructure capabilities across dam construction, hydropower, irrigation systems, road infrastructure, bridges, viaducts, earthworks, and structural concrete works.",
+    "eyebrow": "Capabilities",
+    "title": "Core capability areas for Arma Infrastructure",
+    "intro": "The first release focuses on six core capability categories adapted from the source site structure and refined for Arma Infrastructure's positioning.",
+    "heroImage": "/images/capabilities/index/hero.webp"
+  },
+  "items": [
+    {
+      "slug": "dams-hydropower",
+      "seoTitle": "Dam Construction and Hydropower Infrastructure | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure delivers dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-related civil works with an engineering-led approach.",
+      "title": "Dams and Hydropower",
+      "heroImage": "/images/capabilities/dams-hydropower/hero.webp",
+      "summary": "Dam construction, hydraulic structures, flood control systems, reservoirs, and hydropower-oriented civil works.",
         "body": [
           "Dam construction and hydropower infrastructure play a central role in water management, flood control, irrigation support, and renewable energy production. Arma Infrastructure positions this capability around the planning and delivery of critical structures that regulate water flow, store supply, and support long-term regional resilience.",
           "This service area covers dam works, hydraulic control systems, reservoir-related civil construction, and the structural components required to support hydropower generation. These assets are essential not only for water storage and regulation, but also for strengthening agricultural supply, controlling seasonal flow variation, and improving the reliability of strategic infrastructure systems.",
@@ -213,11 +215,12 @@
         ]
       },
       {
-        "slug": "water-conveyance-irrigation",
-        "seoTitle": "Water Conveyance and Irrigation Infrastructure | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure develops irrigation systems, canals, hydraulic routing works, and water conveyance infrastructure to support agricultural productivity and resource efficiency.",
-        "title": "Water Conveyance and Irrigation",
-        "summary": "Canals, irrigation systems, hydraulic distribution structures, and water-management infrastructure.",
+      "slug": "water-conveyance-irrigation",
+      "seoTitle": "Water Conveyance and Irrigation Infrastructure | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure develops irrigation systems, canals, hydraulic routing works, and water conveyance infrastructure to support agricultural productivity and resource efficiency.",
+      "title": "Water Conveyance and Irrigation",
+      "heroImage": "/images/capabilities/water-conveyance-irrigation/hero.webp",
+      "summary": "Canals, irrigation systems, hydraulic distribution structures, and water-management infrastructure.",
         "body": [
           "Water conveyance and irrigation infrastructure supports agriculture, resource efficiency, and long-term regional development. Arma Infrastructure presents this capability through irrigation systems, hydraulic routing structures, and civil works that collect, store, direct, and distribute water with controlled technical performance.",
           "The service scope includes canals, hydraulic distribution assets, irrigation-supporting structures, and water-management infrastructure developed to improve agricultural productivity while supporting sustainability, environmental awareness, and efficient resource use. These systems help move water from storage and regulation points to productive land in a controlled and economically meaningful way.",
@@ -226,11 +229,13 @@
         ]
       },
       {
-        "slug": "road-infrastructure",
-        "seoTitle": "Road Infrastructure and Highway Construction | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure delivers highway construction, divided road systems, transport corridors, and roadway civil works focused on safety, durability, and connectivity.",
-        "title": "Road Infrastructure",
-        "summary": "Highway platforms, divided roads, transport links, and supporting roadway civil works.",
+      "slug": "road-infrastructure",
+      "seoTitle": "Road Infrastructure and Highway Construction | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure delivers highway construction, divided road systems, transport corridors, and roadway civil works focused on safety, durability, and connectivity.",
+      "title": "Road Infrastructure",
+      "heroImage": "/images/capabilities/road-infrastructure/hero.webp",
+      "cardImage": "/images/capabilities/road-infrastructure/card.webp",
+      "summary": "Highway platforms, divided roads, transport links, and supporting roadway civil works.",
         "body": [
           "Road infrastructure is a core driver of economic activity, regional access, logistics, and social mobility. Arma Infrastructure frames this capability around the delivery of highway construction, transport corridors, and roadway civil systems designed for safety, durability, and operational efficiency.",
           "This capability includes road platform works, divided road construction, pavement-supporting systems, and field execution processes guided by disciplined engineering, structural stability, and environmental awareness. The objective is to build reliable road networks that strengthen connectivity and long-term transport performance.",
@@ -239,11 +244,12 @@
         ]
       },
       {
-        "slug": "bridge-viaduct-structures",
-        "seoTitle": "Bridge and Viaduct Construction | Structural Transport Infrastructure | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure builds bridge and viaduct systems that improve transport continuity through durable structural execution, engineering precision, and site control.",
-        "title": "Bridge and Viaduct Structures",
-        "summary": "Bridge crossings, viaduct systems, and structural links that support safe and continuous transport.",
+      "slug": "bridge-viaduct-structures",
+      "seoTitle": "Bridge and Viaduct Construction | Structural Transport Infrastructure | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure builds bridge and viaduct systems that improve transport continuity through durable structural execution, engineering precision, and site control.",
+      "title": "Bridge and Viaduct Structures",
+      "heroImage": "/images/capabilities/bridge-viaduct-structures/hero.webp",
+      "summary": "Bridge crossings, viaduct systems, and structural links that support safe and continuous transport.",
         "body": [
           "Bridge and viaduct structures are essential to overcoming terrain, water crossings, and transport barriers. Arma Infrastructure positions this area as a high-value structural discipline requiring careful planning, engineering precision, and strict control of safety and quality standards.",
           "These systems are presented as enabling infrastructure for continuous movement, regional development, and long-term network reliability, with an emphasis on durability, technical coordination, and responsible construction methods. Their role is not only structural, but also economic and strategic, because they directly influence access, travel continuity, and network efficiency.",
@@ -252,11 +258,12 @@
         ]
       },
       {
-        "slug": "earthworks-excavation",
-        "seoTitle": "Earthworks and Excavation Services | Infrastructure Site Preparation | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure performs earthworks, excavation, grading, and site preparation for transport, hydraulic, and structural civil works.",
-        "title": "Earthworks and Excavation",
-        "summary": "Excavation, grading, embankment shaping, and site preparation for major infrastructure works.",
+      "slug": "earthworks-excavation",
+      "seoTitle": "Earthworks and Excavation Services | Infrastructure Site Preparation | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure performs earthworks, excavation, grading, and site preparation for transport, hydraulic, and structural civil works.",
+      "title": "Earthworks and Excavation",
+      "heroImage": "/images/capabilities/earthworks-excavation/hero.webp",
+      "summary": "Excavation, grading, embankment shaping, and site preparation for major infrastructure works.",
         "body": [
           "Earthworks and excavation are treated as enabling disciplines behind large-scale infrastructure delivery. Arma Infrastructure positions this capability around site preparation, mass movement operations, grading, and terrain shaping that create stable conditions for downstream structural and hydraulic works.",
           "The category supports transport, water, and structural projects by emphasizing controlled execution, efficient sequencing, and the preparation of durable working platforms for major civil operations. These activities are often decisive in determining project efficiency, constructability, and the long-term reliability of the works that follow.",
@@ -265,11 +272,12 @@
         ]
       },
       {
-        "slug": "concrete-structural-works",
-        "seoTitle": "Concrete and Structural Works | Reinforced Civil Construction | Arma Infrastructure",
-        "seoDescription": "Arma Infrastructure delivers concrete and structural works for dams, roads, water systems, and other heavy civil infrastructure applications.",
-        "title": "Concrete and Structural Works",
-        "summary": "Reinforced concrete execution, structural placement, and durable civil construction systems.",
+      "slug": "concrete-structural-works",
+      "seoTitle": "Concrete and Structural Works | Reinforced Civil Construction | Arma Infrastructure",
+      "seoDescription": "Arma Infrastructure delivers concrete and structural works for dams, roads, water systems, and other heavy civil infrastructure applications.",
+      "title": "Concrete and Structural Works",
+      "heroImage": "/images/capabilities/concrete-structural-works/hero.webp",
+      "summary": "Reinforced concrete execution, structural placement, and durable civil construction systems.",
         "body": [
           "Concrete and structural works remain central to the long-term performance of infrastructure assets. Arma Infrastructure presents this capability through reinforced concrete systems, structural execution quality, and the disciplined placement of core civil elements built for durability and compliance.",
           "The focus is on dependable workmanship, consistent standards, and structural solutions that support dams, transport infrastructure, water systems, and other heavy civil applications. In these sectors, the quality of concrete and structural execution directly affects lifespan, safety, and the reliability of the finished asset.",
