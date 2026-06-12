@@ -49,6 +49,7 @@ export type ProjectItem = {
   seoTitle?: string;
   seoDescription?: string;
   title: string;
+  group?: "flagship" | "portfolio";
   location: string;
   category: string;
   status: string;
@@ -87,6 +88,8 @@ export type SiteContent = {
       eyebrow: string;
       title: string;
       intro: string;
+      body?: string[];
+      sections?: DetailSection[];
     };
     items: ProjectItem[];
   };

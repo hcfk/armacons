@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 
+import { ContentSection } from "@/components/content-section";
+import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { ProjectGrid } from "@/components/project-grid";
 import { content } from "@/lib/content";
@@ -13,6 +15,9 @@ export const metadata: Metadata = buildPageMetadata({
 });
 
 export default function ProjectsPage() {
+  const flagshipProjects = content.projects.items.filter((item) => item.group === "flagship");
+  const portfolioProjects = content.projects.items.filter((item) => item.group !== "flagship");
+
   return (
     <>
       <PageHero
@@ -21,7 +26,28 @@ export default function ProjectsPage() {
         intro={content.projects.index.intro}
         dark
       />
-      <ProjectGrid items={content.projects.items} />
+      {content.projects.index.body?.length ? (
+        <ContentSection body={content.projects.index.body} ctaHref="/en/contact" ctaLabel="Discuss a Project" />
+      ) : null}
+      {content.projects.index.sections?.length ? (
+        <DetailSections sections={content.projects.index.sections} />
+      ) : null}
+      {flagshipProjects.length ? (
+        <ProjectGrid
+          items={flagshipProjects}
+          eyebrow="Projects"
+          title="Flagship Projects"
+          intro="Major dam and hydropower references that define scale, structural depth, and integrated heavy civil execution."
+        />
+      ) : null}
+      {portfolioProjects.length ? (
+        <ProjectGrid
+          items={portfolioProjects}
+          eyebrow="Portfolio"
+          title="Additional Hydropower References"
+          intro="Operational hydro and regulator-led assets that broaden the project portfolio across provinces, project scales, and commissioning periods."
+        />
+      ) : null}
     </>
   );
 }

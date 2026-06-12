@@ -3,9 +3,27 @@ import Link from "next/link";
 
 import { ProjectItem } from "@/lib/content";
 
-export function ProjectGrid({ items }: { items: ProjectItem[] }) {
+type ProjectGridProps = {
+  items: ProjectItem[];
+  eyebrow?: string;
+  title?: string;
+  intro?: string;
+};
+
+export function ProjectGrid({ items, eyebrow, title, intro }: ProjectGridProps) {
   return (
     <section className="mx-auto max-w-7xl px-6 py-14 lg:px-10 lg:py-20">
+      {eyebrow || title || intro ? (
+        <div className="mb-8 max-w-3xl">
+          {eyebrow ? <p className="eyebrow text-sm text-[rgb(46,91,122)]">{eyebrow}</p> : null}
+          {title ? (
+            <h2 className="mt-3 font-[family-name:var(--font-heading)] text-4xl uppercase text-[rgb(16,38,63)]">
+              {title}
+            </h2>
+          ) : null}
+          {intro ? <p className="mt-4 text-base leading-8 text-[rgb(42,46,51)]">{intro}</p> : null}
+        </div>
+      ) : null}
       <div className="grid gap-8 lg:grid-cols-2">
         {items.map((item) => (
           <Link

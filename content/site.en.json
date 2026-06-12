@@ -250,7 +250,29 @@
       "seoDescription": "Review Arma Infrastructure project references including Alpaslan 2 Dam and Hydropower Plant and Ilisu Dam and Hydroelectric Power Plant.",
       "eyebrow": "Projects",
       "title": "Selected infrastructure projects",
-      "intro": "The current project section combines flagship dam references with smaller and mid-scale hydropower assets that broaden the operating profile of Arma Infrastructure across multiple regions in Turkey."
+      "intro": "The current project section combines flagship dam references with smaller and mid-scale hydropower assets that broaden the operating profile of Arma Infrastructure across multiple regions in Turkey.",
+      "body": [
+        "The project portfolio is structured to show both scale and range. Major flagship references demonstrate capability in large integrated dam and hydropower systems, while additional regulator and hydro assets extend the profile across smaller plants, phased developments, and regionally distributed energy infrastructure.",
+        "Taken together, these references present Arma Infrastructure as a company aligned with water-energy construction logic across different project sizes, operating conditions, and commissioning periods. The result is a portfolio that communicates both flagship experience and continuity across the broader hydropower landscape."
+      ],
+      "sections": [
+        {
+          "title": "Portfolio Logic",
+          "items": [
+            "Combine major strategic water-energy references with smaller and mid-scale operational hydro assets.",
+            "Demonstrate capability across integrated dam systems, regulator-led projects, and phased energy developments.",
+            "Show infrastructure relevance through both structural scale and repeated participation in operational hydro delivery."
+          ]
+        },
+        {
+          "title": "What The Project List Communicates",
+          "items": [
+            "Flagship references indicate engineering depth, execution complexity, and large-project coordination.",
+            "Additional assets broaden the portfolio geographically and technically across provinces and plant scales.",
+            "Together they support a more credible heavy civil and water-energy company profile than a two-project showcase alone."
+          ]
+        }
+      ]
     },
     "items": [
       {
@@ -258,6 +280,7 @@
         "seoTitle": "Alpaslan 2 Dam and Hydropower Plant Project | Arma Infrastructure",
         "seoDescription": "Explore the Alpaslan 2 Dam and Hydropower Plant project in Mus, Turkey, including installed capacity, tunnel works, excavation volumes, concrete scope, and supporting infrastructure.",
         "title": "Alpaslan 2 Dam and Hydropower Plant",
+        "group": "flagship",
         "location": "Mus, Turkey",
         "category": "Dam and Hydropower",
         "status": "Completed",
@@ -319,6 +342,7 @@
         "seoTitle": "Ilisu Dam and Hydroelectric Power Plant Project | Arma Infrastructure",
         "seoDescription": "Explore the Ilisu Dam and Hydroelectric Power Plant in Mardin, Turkey, including CFRD structure, installed capacity, reservoir volume, annual energy yield, and major technical characteristics.",
         "title": "Ilisu Dam and Hydroelectric Power Plant",
+        "group": "flagship",
         "location": "Dicle Stream, Mardin, Turkey",
         "category": "Dam and Hydropower",
         "status": "Completed / Operational",
@@ -379,6 +403,7 @@
         "seoTitle": "Zilan Regulator and Hydropower Plant | Arma Infrastructure",
         "seoDescription": "Explore the Zilan Regulator and Hydropower Plant reference in Van, Turkey, including commissioning year, installed capacity, and annual generation profile.",
         "title": "Zilan Regulator and Hydropower Plant",
+        "group": "portfolio",
         "location": "Van, Turkey",
         "category": "Regulator and Hydropower",
         "status": "Completed / Operational",
@@ -421,6 +446,7 @@
         "seoTitle": "Saral-3 Hydropower Plant Phase 1 | Arma Infrastructure",
         "seoDescription": "Explore the Saral-3 Hydropower Plant Phase 1 reference in Van, Turkey, including installed capacity, annual generation, and commissioning year.",
         "title": "Saral-3 Hydropower Plant Phase 1",
+        "group": "portfolio",
         "location": "Van, Turkey",
         "category": "Hydropower",
         "status": "Completed / Operational",
@@ -464,6 +490,7 @@
         "seoTitle": "Morgedik Hydropower Plant Phase 1 | Arma Infrastructure",
         "seoDescription": "Explore the Morgedik Hydropower Plant Phase 1 reference in Van, Turkey, including installed capacity, annual generation, and commissioning year.",
         "title": "Morgedik Hydropower Plant Phase 1",
+        "group": "portfolio",
         "location": "Van, Turkey",
         "category": "Hydropower",
         "status": "Completed / Operational",
@@ -507,6 +534,7 @@
         "seoTitle": "Bagisli Regulator and Hydropower Plant | Arma Infrastructure",
         "seoDescription": "Explore the Bagisli Regulator and Hydropower Plant reference in Hakkari, Turkey, including installed capacity, annual generation, and commissioning year.",
         "title": "Bagisli Regulator and Hydropower Plant",
+        "group": "portfolio",
         "location": "Hakkari, Turkey",
         "category": "Regulator and Hydropower",
         "status": "Completed / Operational",
@@ -549,6 +577,7 @@
         "seoTitle": "Aslandagi and Beyyurdu Energy Group | Arma Infrastructure",
         "seoDescription": "Explore the Aslandagi and Beyyurdu Energy Group reference in Hakkari, Turkey, including installed capacity, annual generation, and phased commissioning dates.",
         "title": "Aslandagi and Beyyurdu Energy Group",
+        "group": "portfolio",
         "location": "Hakkari, Turkey",
         "category": "Hydropower Energy Group",
         "status": "Completed / Operational",
@@ -591,6 +620,7 @@
         "seoTitle": "Kamer Regulator and Hydropower Plant | Arma Infrastructure",
         "seoDescription": "Explore the Kamer Regulator and Hydropower Plant reference in Mus, Turkey, including installed capacity, annual generation, and commissioning year.",
         "title": "Kamer Regulator and Hydropower Plant",
+        "group": "portfolio",
         "location": "Mus, Turkey",
         "category": "Regulator and Hydropower",
         "status": "Completed / Operational",
