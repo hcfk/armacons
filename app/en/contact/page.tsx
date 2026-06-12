@@ -1,5 +1,14 @@
+import type { Metadata } from "next";
+
 import { PageHero } from "@/components/page-hero";
 import { content } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
+
+export const metadata: Metadata = buildPageMetadata({
+  title: "Contact Arma Infrastructure | Ankara Office",
+  description: content.contact.intro,
+  path: "/en/contact",
+});
 
 export default function ContactPage() {
   return (

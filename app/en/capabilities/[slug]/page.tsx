@@ -5,6 +5,7 @@ import { ContentSection } from "@/components/content-section";
 import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getCapability } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return content.capabilities.items.map((item) => ({ slug: item.slug }));
@@ -22,10 +23,12 @@ export async function generateMetadata({
     return {};
   }
 
-  return {
+  return buildPageMetadata({
     title: capability.seoTitle ?? capability.title,
     description: capability.seoDescription ?? capability.summary,
-  };
+    path: `/en/capabilities/${slug}`,
+    image: capability.heroImage,
+  });
 }
 
 export default async function CapabilityDetailPage({

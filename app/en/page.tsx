@@ -7,11 +7,13 @@ import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { StatsBand } from "@/components/stats-band";
 import { content } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = buildPageMetadata({
   title: content.home.seoTitle,
   description: content.home.seoDescription,
-};
+  path: "/en",
+});
 
 export default function HomePage() {
   return (

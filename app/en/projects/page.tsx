@@ -3,11 +3,14 @@ import type { Metadata } from "next";
 import { PageHero } from "@/components/page-hero";
 import { ProjectGrid } from "@/components/project-grid";
 import { content } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = buildPageMetadata({
   title: content.projects.index.seoTitle,
   description: content.projects.index.seoDescription,
-};
+  path: "/en/projects",
+  image: content.projects.items[0]?.heroImage,
+});
 
 export default function ProjectsPage() {
   return (

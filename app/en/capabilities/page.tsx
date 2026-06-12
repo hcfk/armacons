@@ -4,11 +4,14 @@ import { ContentSection } from "@/components/content-section";
 import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata: Metadata = buildPageMetadata({
   title: content.capabilities.index.seoTitle,
   description: content.capabilities.index.seoDescription,
-};
+  path: "/en/capabilities",
+  image: content.capabilities.index.heroImage,
+});
 
 export default function CapabilitiesPage() {
   return (

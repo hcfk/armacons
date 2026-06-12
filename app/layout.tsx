@@ -6,6 +6,25 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://www.armacons.com"),
   title: "Arma Infrastructure",
   description: "Arma Infrastructure corporate and capability site.",
+  openGraph: {
+    title: "Arma Infrastructure",
+    description: "Arma Infrastructure corporate and capability site.",
+    siteName: "Arma Infrastructure",
+    locale: "en_US",
+    type: "website",
+    images: [
+      {
+        url: "/images/arma_ilisu_main.webp",
+        alt: "Arma Infrastructure",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Arma Infrastructure",
+    description: "Arma Infrastructure corporate and capability site.",
+    images: ["/images/arma_ilisu_main.webp"],
+  },
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon.ico",

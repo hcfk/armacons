@@ -6,6 +6,7 @@ import { ContentSection } from "@/components/content-section";
 import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getProject } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return content.projects.items.map((item) => ({ slug: item.slug }));
@@ -23,10 +24,12 @@ export async function generateMetadata({
     return {};
   }
 
-  return {
+  return buildPageMetadata({
     title: project.seoTitle ?? project.title,
     description: project.seoDescription ?? project.summary,
-  };
+    path: `/en/projects/${slug}`,
+    image: project.heroImage,
+  });
 }
 
 export default async function ProjectDetailPage({

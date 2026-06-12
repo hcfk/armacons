@@ -5,6 +5,7 @@ import { ContentSection } from "@/components/content-section";
 import { DetailSections } from "@/components/detail-sections";
 import { PageHero } from "@/components/page-hero";
 import { content, getCorporatePage } from "@/lib/content";
+import { buildPageMetadata } from "@/lib/seo";
 
 export function generateStaticParams() {
   return content.corporate.map((page) => ({ slug: page.slug }));
@@ -22,10 +23,11 @@ export async function generateMetadata({
     return {};
   }
 
-  return {
+  return buildPageMetadata({
     title: page.seoTitle ?? page.title,
     description: page.seoDescription ?? page.intro,
-  };
+    path: `/en/corporate/${slug}`,
+  });
 }
 
 export default async function CorporateDetailPage({
