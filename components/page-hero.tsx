@@ -5,9 +5,13 @@ type PageHeroProps = {
   title: string;
   intro: string;
   dark?: boolean;
+  imageSrc?: string;
+  imageAlt?: string;
 };
 
-export function PageHero({ eyebrow, title, intro, dark = false }: PageHeroProps) {
+export function PageHero({ eyebrow, title, intro, dark = false, imageSrc, imageAlt }: PageHeroProps) {
+  const backgroundImage = imageSrc ?? "/images/arma_ilisu_main.webp";
+
   return (
     <section
       className={
@@ -19,8 +23,8 @@ export function PageHero({ eyebrow, title, intro, dark = false }: PageHeroProps)
       {dark ? (
         <>
           <Image
-            src="/images/arma_ilisu_main.webp"
-            alt="Arma Infrastructure main project visual"
+            src={backgroundImage}
+            alt={imageAlt ?? "Arma Infrastructure main project visual"}
             fill
             priority
             className="object-cover object-center"

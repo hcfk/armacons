@@ -29,6 +29,27 @@ export type CapabilityItem = {
   body: string[];
 };
 
+export type ProjectHighlight = {
+  label: string;
+  value: string;
+};
+
+export type ProjectItem = {
+  slug: string;
+  seoTitle?: string;
+  seoDescription?: string;
+  title: string;
+  location: string;
+  category: string;
+  status: string;
+  period: string;
+  heroImage: string;
+  gallery: string[];
+  summary: string;
+  body: string[];
+  highlights: ProjectHighlight[];
+};
+
 export type SiteContent = {
   site: {
     name: string;
@@ -46,6 +67,16 @@ export type SiteContent = {
     stats: StatItem[];
   };
   corporate: CorporatePage[];
+  projects: {
+    index: {
+      seoTitle: string;
+      seoDescription: string;
+      eyebrow: string;
+      title: string;
+      intro: string;
+    };
+    items: ProjectItem[];
+  };
   capabilities: {
     index: {
       seoTitle: string;
@@ -72,4 +103,8 @@ export function getCorporatePage(slug: string) {
 
 export function getCapability(slug: string) {
   return content.capabilities.items.find((item) => item.slug === slug);
+}
+
+export function getProject(slug: string) {
+  return content.projects.items.find((item) => item.slug === slug);
 }
